@@ -1,5 +1,7 @@
 # AI 代码生成平台（ai-code-generator）
 
+[English](README_EN.md) | [简体中文](README.md)
+
 > This is an AI application generation platform. After the user inputs their requirements, the system first selects a suitable generation mode for the application, and then uses LangChain4j to call the model to generate code. It supports three modes: single-file HTML, multi-file static pages, and Vue projects, and provides streaming generation and display, code storage, online preview, and deployment capabilities. The main focus of the project is to connect "natural language requirements -> code -> accessible pages," rather than just stopping at AI dialogue.
 
 > 输入自然语言需求，AI 自动生成代码，并一键部署为可访问的页面。
